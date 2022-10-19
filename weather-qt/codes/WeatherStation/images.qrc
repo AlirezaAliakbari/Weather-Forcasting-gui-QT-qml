@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../fonts/fonts/HELVETIC.ttf</file>
+        <file>../../fonts/fonts/OpenSans-Light.ttf</file>
+        <file>../../icones/1.png</file>
+        <file>../../icones/2.png</file>
+        <file>../../icones/3.png</file>
+        <file>../../icones/4.png</file>
+        <file>../../icones/5.png</file>
+        <file>../../icones/6.png</file>
+        <file>../../icones/7.png</file>
+        <file>../../icones/8.png</file>
+        <file>../../icones/9.png</file>
+        <file>../../icones/10.png</file>
+        <file>../../icones/13.png</file>
+        <file>../../icones/14.png</file>
+        <file>../../icones/15.png</file>
+        <file>../../icones/16.png</file>
+        <file>../../icones/17.png</file>
+        <file>../../icones/18.png</file>
+        <file>../../icones/19.png</file>
+        <file>../../icones/20.png</file>
+        <file>../../icones/21.png</file>
+        <file>../../icones/22.png</file>
+        <file>../../icones/23.png</file>
+        <file>../../icones/24.png</file>
+        <file>../../icones/25.png</file>
+        <file>../../icones/26.png</file>
+        <file>../../icones/29.png</file>
+        <file>../../icones/30.png</file>
+        <file>../../icones/31.png</file>
+        <file>../../icones/32.png</file>
+        <file>../../icones/33.png</file>
+        <file>../../icones/34.png</file>
+        <file>../../icones/35.png</file>
+        <file>../../icones/36.png</file>
+        <file>../../icones/37.png</file>
+        <file>../../icones/38.png</file>
+        <file>../../icones/39.png</file>
+        <file>../../icones/40.png</file>
+        <file>../../icones/41.png</file>
+        <file>../../icones/42.png</file>
+        <file>../../icones/43.png</file>
+        <file>../../icones/44.png</file>
+    </qresource>
+</RCC>
